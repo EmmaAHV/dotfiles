@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = emma.ahventura@gmail.com
+	name = Emma AbouHaidar Ventura
